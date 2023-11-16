@@ -1,0 +1,11 @@
+figure {
+  display: grid;
+  grid-template-columns: 50%;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 900px;
+}
